@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=300" />
+  <title>Volume Booster</title>
+  <link rel="stylesheet" href="popup.css" />
+</head>
+<body>
+  <div class="container">
+    <h1 class="title" id="popupTitle"></h1>
+    <p class="subtitle" id="popupSubtitle"></p>
+
+    <div class="gain-display">
+      <span id="gainValue">100</span><span class="percent">%</span>
+    </div>
+
+    <div class="slider-container">
+      <input type="range" id="gainSlider" min="100" max="500" value="100" step="10" />
+      <div class="slider-labels">
+        <span>1×</span>
+        <span>2×</span>
+        <span>3×</span>
+        <span>4×</span>
+        <span>5×</span>
+      </div>
+    </div>
+
+    <div class="presets">
+      <button data-value="100">100%</button>
+      <button data-value="150">150%</button>
+      <button data-value="200" class="active">200%</button>
+      <button data-value="300">300%</button>
+      <button data-value="400">400%</button>
+      <button data-value="500">500%</button>
+    </div>
+
+    <p class="hint" id="popupHint"></p>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+{
+  "appName": {
+    "message": "Volume Booster"
+  },
+  "appDesc": {
+    "message": "Ɗaga ƙarar sauti/bidiyo a cikin mai lilo har zuwa 500%. Ketare iyakar 100% na tsarin."
+  },
+  "popupTitle": {
+    "message": "🔊 Mai Ɗaga Sauti"
+  },
+  "popupSubtitle": {
+    "message": "Ketare iyakar ƙarar sauti 100%"
+  },
+  "popupHint": {
+    "message": "Ɗaga mai yawa na iya haifar da gurbatar sauti ko lalata lasifika. Ana ba da shawarar 150%–300%."
+  },
+  "logLoaded": {
+    "message": "[Volume Booster] An ɗora. Ɗaga na yanzu: $percent$%",
+    "placeholders": {
+      "percent": {
+        "content": "$1"
+      }
+    }
+  }
+}

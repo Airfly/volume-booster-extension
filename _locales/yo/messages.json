@@ -1,0 +1,25 @@
+{
+  "appName": {
+    "message": "Volume Booster"
+  },
+  "appDesc": {
+    "message": "Mu gbé iwọn didun ohun/fidio lórí ẹ̀rọ àwáwí lọ sí 500%. Kọjá ìdíǹ 100% ti ètò."
+  },
+  "popupTitle": {
+    "message": "🔊 Amúgbòóhùn Sókè"
+  },
+  "popupSubtitle": {
+    "message": "Kọjá ìdíǹ iwọn ohùn 100%"
+  },
+  "popupHint": {
+    "message": "Ìmúgbòóhùn púpọ̀ lè fa ìdàrúdàpọ̀ ohùn tàbí ìbàjẹ́ agbọ́rọ̀. A ṣe dámọ̀ràn 150%–300%."
+  },
+  "logLoaded": {
+    "message": "[Volume Booster] Ti gbé ẹrù. Ìmúgbòóhùn lọ́wọ́: $percent$%",
+    "placeholders": {
+      "percent": {
+        "content": "$1"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "appName": {
+    "message": "Volume Booster"
+  },
+  "appDesc": {
+    "message": "Boost browser audio/video volume up to 500%. Break through the 100% system limit."
+  },
+  "popupTitle": {
+    "message": "🔊 Volume Booster"
+  },
+  "popupSubtitle": {
+    "message": "Break through the 100% volume limit"
+  },
+  "popupHint": {
+    "message": "Tip: High gain may cause distortion or speaker damage. 150%–300% is recommended."
+  },
+  "logLoaded": {
+    "message": "[Volume Booster] Loaded. Current gain: $percent$%",
+    "placeholders": {
+      "percent": {
+        "content": "$1"
+      }
+    }
+  }
+}

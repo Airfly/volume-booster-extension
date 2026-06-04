@@ -1,0 +1,25 @@
+{
+  "appName": {
+    "message": "Volume Booster"
+  },
+  "appDesc": {
+    "message": "Verstärken Sie die Audio-/Videolautstärke im Browser auf bis zu 500%. Durchbrechen Sie die 100%-Systemgrenze."
+  },
+  "popupTitle": {
+    "message": "🔊 Lautstärkeverstärker"
+  },
+  "popupSubtitle": {
+    "message": "Durchbrechen Sie die 100%-Lautstärkegrenze"
+  },
+  "popupHint": {
+    "message": "Zu hohe Verstärkung kann zu Verzerrungen oder Lautsprecherschäden führen. Empfohlen: 150%–300%."
+  },
+  "logLoaded": {
+    "message": "[Volume Booster] Geladen. Aktuelle Verstärkung: $percent$%",
+    "placeholders": {
+      "percent": {
+        "content": "$1"
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "appName": {
+    "message": "音量增强器"
+  },
+  "appDesc": {
+    "message": "将浏览器音频/视频音量增强至最高 500%，突破系统 100% 的限制。"
+  },
+  "popupTitle": {
+    "message": "🔊 音量增强器"
+  },
+  "popupSubtitle": {
+    "message": "突破浏览器 100% 音量限制"
+  },
+  "popupHint": {
+    "message": "提示：过高增益可能导致音频失真或音箱损坏，建议使用 150%–300%。"
+  },
+  "logLoaded": {
+    "message": "[音量增强器] 已加载，当前增益：$percent$%",
+    "placeholders": {
+      "percent": {
+        "content": "$1"
+      }
+    }
+  }
+}

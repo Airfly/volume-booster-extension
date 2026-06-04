@@ -1,0 +1,25 @@
+{
+  "appName": {
+    "message": "Volume Booster"
+  },
+  "appDesc": {
+    "message": "เพิ่มระดับเสียง audio/video ในเบราว์เซอร์ได้ถึง 500% ทะลุขีดจำกัด 100% ของระบบ"
+  },
+  "popupTitle": {
+    "message": "🔊 ตัวเพิ่มเสียง"
+  },
+  "popupSubtitle": {
+    "message": "ทะลุขีดจำกัดระดับเสียง 100%"
+  },
+  "popupHint": {
+    "message": "การเพิ่มเสียงสูงอาจทำให้เสียงเพี้ยนหรือลำโพงเสียหายได้ แนะนำ 150%–300%"
+  },
+  "logLoaded": {
+    "message": "[Volume Booster] โหลดแล้ว เกนปัจจุบัน: $percent$%",
+    "placeholders": {
+      "percent": {
+        "content": "$1"
+      }
+    }
+  }
+}

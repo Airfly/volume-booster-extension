@@ -1,0 +1,16 @@
+# Build / packaging
+*.crx
+*.pem
+*.zip
+
+# Editor
+*.suo
+*.user
+.vs/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db

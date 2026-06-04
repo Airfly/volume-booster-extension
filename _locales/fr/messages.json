@@ -1,0 +1,25 @@
+{
+  "appName": {
+    "message": "Volume Booster"
+  },
+  "appDesc": {
+    "message": "Augmentez le volume audio/vidéo du navigateur jusqu'à 500%. Franchissez la limite système des 100%."
+  },
+  "popupTitle": {
+    "message": "🔊 Amplificateur de Volume"
+  },
+  "popupSubtitle": {
+    "message": "Franchissez la limite de volume de 100%"
+  },
+  "popupHint": {
+    "message": "Un gain élevé peut causer une distorsion audio ou endommager les enceintes. 150%–300% est recommandé."
+  },
+  "logLoaded": {
+    "message": "[Volume Booster] Chargé. Gain actuel : $percent$%",
+    "placeholders": {
+      "percent": {
+        "content": "$1"
+      }
+    }
+  }
+}

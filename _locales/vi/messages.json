@@ -1,0 +1,25 @@
+{
+  "appName": {
+    "message": "Volume Booster"
+  },
+  "appDesc": {
+    "message": "Tăng âm lượng audio/video trong trình duyệt lên đến 500%. Vượt qua giới hạn 100% của hệ thống."
+  },
+  "popupTitle": {
+    "message": "🔊 Tăng Âm Lượng"
+  },
+  "popupSubtitle": {
+    "message": "Vượt qua giới hạn âm lượng 100%"
+  },
+  "popupHint": {
+    "message": "Tăng âm quá cao có thể gây méo tiếng hoặc hỏng loa. Khuyến nghị 150%–300%."
+  },
+  "logLoaded": {
+    "message": "[Volume Booster] Đã tải. Mức khuếch đại hiện tại: $percent$%",
+    "placeholders": {
+      "percent": {
+        "content": "$1"
+      }
+    }
+  }
+}

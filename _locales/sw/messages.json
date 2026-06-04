@@ -1,0 +1,25 @@
+{
+  "appName": {
+    "message": "Volume Booster"
+  },
+  "appDesc": {
+    "message": "Kuongeza sauti ya audio/video kwenye kivinjari hadi 500%. Vunja kikomo cha 100% cha mfumo."
+  },
+  "popupTitle": {
+    "message": "🔊 Kikuza Sauti"
+  },
+  "popupSubtitle": {
+    "message": "Vunja kikomo cha sauti cha 100%"
+  },
+  "popupHint": {
+    "message": "Gain ya juu inaweza kusababisha mgeuko wa sauti au kuharibu spika. Inapendekezwa 150%–300%."
+  },
+  "logLoaded": {
+    "message": "[Volume Booster] Imepakiwa. Gain ya sasa: $percent$%",
+    "placeholders": {
+      "percent": {
+        "content": "$1"
+      }
+    }
+  }
+}

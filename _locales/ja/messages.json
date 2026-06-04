@@ -1,0 +1,25 @@
+{
+  "appName": {
+    "message": "Volume Booster"
+  },
+  "appDesc": {
+    "message": "ブラウザのオーディオ/ビデオ音量を最大500%までブースト。100%の制限を突破。"
+  },
+  "popupTitle": {
+    "message": "🔊 音量ブースター"
+  },
+  "popupSubtitle": {
+    "message": "100%の音量制限を突破"
+  },
+  "popupHint": {
+    "message": "高ゲインは歪みやスピーカー故障の原因になります。150%～300%を推奨。"
+  },
+  "logLoaded": {
+    "message": "[Volume Booster] 読み込み完了。現在のゲイン：$percent$%",
+    "placeholders": {
+      "percent": {
+        "content": "$1"
+      }
+    }
+  }
+}
