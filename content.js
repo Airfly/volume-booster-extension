@@ -8,7 +8,7 @@
 
   // --- 状态 ---
   let gainValue = 1.0;             // 当前增益倍数 (1.0 = 100%)
-  const gainNodes = new WeakMap(); // MediaElement → GainNode
+  const gainNodes = new Map(); // MediaElement → GainNode
   let audioCtx = null;
 
   // --- 获取 / 创建 AudioContext（需要用户交互后才解锁） ---
